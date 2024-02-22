@@ -2,7 +2,7 @@ package edu;
 public class Test1 {
 	public static void main(String[] args) {
 		{
-		//한 라인에 하나만 훌력하는 코드임
+		//한 라인에 하나만 훌력하는 코드
 		System.out.println("이름 : 이세련");
 		System.out.println("성별 : 여");
 		System.out.println("학교 : 부산대학교");

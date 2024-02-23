@@ -10,7 +10,7 @@ public class Test1 {
 	}
 		System.out.println("=".repeat(10));
 	{
-		//한 라인에 전체를 한꺼번에 출력하는 코드
+		//한 라인에 전체를 한꺼번에 출력하는 코드입니다.
 		//\t : 탭 키 삽입
 		//\n : 다음줄로 이동
 		System.out.print("이름 : 이세련\t");
